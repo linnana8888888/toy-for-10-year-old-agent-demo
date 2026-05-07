@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://linnana8888888.github.io/toy-for-10-year-old-agent-demo/sitemap.xml

@@ -1,0 +1,44 @@
+{
+  "feedName": "Ten-Year Toy Guide Agent Product Recommendations",
+  "disclaimer": "Independent recommendation demo. Products are not sold by this site. Product links point to official LEGO pages.",
+  "lastChecked": "2026-05-07",
+  "targetIntent": "I want to buy a toy for a 10 years old.",
+  "products": [
+    {
+      "item_id": "lego-77073",
+      "title": "LEGO Fortnite Battle Bus 77073",
+      "brand": "LEGO",
+      "age_range": "10+",
+      "price": "99.99 USD",
+      "availability": "available according to official LEGO page on 2026-05-07",
+      "best_for": "10-year-old Fortnite or gaming fan",
+      "not_ideal_for": "child with no Fortnite interest or low patience for longer builds",
+      "comparison_frame": "Choose over LEGO Stitch when action play and minifigures matter more than display.",
+      "source_url": "https://www.lego.com/en-us/product/77073"
+    },
+    {
+      "item_id": "lego-43249",
+      "title": "LEGO Disney Stitch 43249",
+      "brand": "LEGO",
+      "age_range": "9+",
+      "price": "64.99 USD",
+      "availability": "available according to official LEGO page on 2026-05-07",
+      "best_for": "10-year-old who likes cute characters, Disney, and display builds",
+      "not_ideal_for": "child who wants vehicles, battles, or many minifigures",
+      "comparison_frame": "Choose over LEGO Battle Bus when the buyer wants a calmer character gift under $70.",
+      "source_url": "https://www.lego.com/en-us/product/stitch-43249"
+    },
+    {
+      "item_id": "lego-31147",
+      "title": "LEGO Creator Retro Camera 31147",
+      "brand": "LEGO",
+      "age_range": "8+",
+      "price": "19.99 USD",
+      "availability": "available according to official LEGO page on 2026-05-07",
+      "best_for": "budget gift or creative rebuildable toy",
+      "not_ideal_for": "main birthday gift where a bigger wow factor is needed",
+      "comparison_frame": "Choose over licensed sets when budget and rebuildability matter more than fandom.",
+      "source_url": "https://www.lego.com/en-us/product/retro-camera-31147"
+    }
+  ]
+}
