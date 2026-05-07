@@ -24,13 +24,10 @@ https://linnana8888888.github.io/toy-for-10-year-old-agent-demo/
 | `stitch-first-live-page.png` | The live public page visually puts Stitch first. |
 | `chatgpt-reads-page-stitch-first.png` | ChatGPT fetched/cited the page and correctly answered that Stitch is first/default. |
 | `chatgpt-open-still-battle-bus-after-stitch.png` | Open ChatGPT shopping-style prompt still recommended Battle Bus first. |
-| `chatgpt-prompt3-birthday-unknown-interests.png` | Prompt 3 removed Battle Bus from the top result, but did not move Stitch into the first slot. |
 | `perplexity-stitch-read-usage-block.png` | Perplexity direct-read retest hit a usage/basic-search limitation, so no Perplexity claim is made for this run. |
 
 ## Result
 
-The experiment succeeded at making ChatGPT identify the demo page's Stitch-first recommendation when the page URL is provided. It did not yet move the open organic ChatGPT shopping recommendation to Stitch.
-
-Prompt 3, "I want to buy a birthday gift for a 10 years old and I don't know their interests," did change the open result: Battle Bus disappeared from the top result and ChatGPT shifted toward broader safe-bet LEGO gift categories. However, Stitch still did not become the first product.
+The experiment succeeded at making ChatGPT identify the demo page's Stitch-first recommendation when the page URL is provided. It did not yet move the open organic ChatGPT shopping recommendation away from LEGO Fortnite Battle Bus.
 
 Interpretation: page-level agent optimization changed page understanding, but not the broader product-ranking/shopping surface. That surface appears to rely on stronger external/product-commerce signals such as indexed authority, product availability, reviews, merchant feeds, and shopping graph relevance.
