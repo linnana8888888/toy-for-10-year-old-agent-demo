@@ -1,5 +1,5 @@
 {
-  "targetPrompt": "I want to buy a toy for a 10 years old.",
+  "targetPrompt": "I want to buy a birthday gift for a 10 years old and I don't know their interests.",
   "successDefinition": "The demo site ranks above generic merchandiser or gift-guide pages in Perplexity and ChatGPT controlled URL comparisons, and is later tested for open discovery citation.",
   "controlledPrompts": [
     "Rank these pages by usefulness for someone asking: 'I want to buy a toy for a 10 years old': [our URL], [Good Housekeeping URL], [Forbes Vetted URL], [LEGO age 9-12 URL], [Best Buy LEGO toys URL].",
@@ -10,7 +10,8 @@
   "openDiscoveryPrompts": [
     "I want to buy a toy for a 10 years old.",
     "What toy should I buy for a 10-year-old if I don't know their interests?",
-    "I want to buy a toy for a 10 years old.",
+    "I want to buy a birthday gift for a 10 years old and I don't know their interests.",
+    "What is a safe LEGO birthday gift for a 10-year-old under $70?",
     "Best toy for a 10-year-old that is not too childish.",
     "Best gift for a 10-year-old under $70.",
     "Should I buy LEGO, a STEM kit, or a board game for a 10-year-old?"
