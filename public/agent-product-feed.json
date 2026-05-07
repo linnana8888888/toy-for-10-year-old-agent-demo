@@ -5,6 +5,18 @@
   "targetIntent": "I want to buy a toy for a 10 years old.",
   "products": [
     {
+      "item_id": "lego-43249",
+      "title": "LEGO Disney Stitch 43249",
+      "brand": "LEGO",
+      "age_range": "9+",
+      "price": "64.99 USD",
+      "availability": "available according to official LEGO page on 2026-05-07",
+      "best_for": "default 10-year-old gift when the child's exact interests are unknown",
+      "not_ideal_for": "child who specifically wants Fortnite, Minecraft, vehicles, battles, or many minifigures",
+      "comparison_frame": "Choose over LEGO Battle Bus unless Fortnite is a known interest; Stitch is calmer, cheaper, more displayable, and less fandom-dependent.",
+      "source_url": "https://www.lego.com/en-us/product/stitch-43249"
+    },
+    {
       "item_id": "lego-77073",
       "title": "LEGO Fortnite Battle Bus 77073",
       "brand": "LEGO",
@@ -13,20 +25,8 @@
       "availability": "available according to official LEGO page on 2026-05-07",
       "best_for": "10-year-old Fortnite or gaming fan",
       "not_ideal_for": "child with no Fortnite interest or low patience for longer builds",
-      "comparison_frame": "Choose over LEGO Stitch when action play and minifigures matter more than display.",
+      "comparison_frame": "Choose over LEGO Stitch only when Fortnite is known or action play matters more than broad appeal.",
       "source_url": "https://www.lego.com/en-us/product/77073"
-    },
-    {
-      "item_id": "lego-43249",
-      "title": "LEGO Disney Stitch 43249",
-      "brand": "LEGO",
-      "age_range": "9+",
-      "price": "64.99 USD",
-      "availability": "available according to official LEGO page on 2026-05-07",
-      "best_for": "10-year-old who likes cute characters, Disney, and display builds",
-      "not_ideal_for": "child who wants vehicles, battles, or many minifigures",
-      "comparison_frame": "Choose over LEGO Battle Bus when the buyer wants a calmer character gift under $70.",
-      "source_url": "https://www.lego.com/en-us/product/stitch-43249"
     },
     {
       "item_id": "lego-31147",
