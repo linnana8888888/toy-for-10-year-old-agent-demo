@@ -1,0 +1,44 @@
+{
+  "targetPrompt": "I want to buy a toy for a 10 years old.",
+  "successDefinition": "The demo site ranks above generic merchandiser or gift-guide pages in Perplexity and ChatGPT controlled URL comparisons, and is later tested for open discovery citation.",
+  "controlledPrompts": [
+    "Rank these pages by usefulness for someone asking: 'I want to buy a toy for a 10 years old': [our URL], [Good Housekeeping URL], [Forbes Vetted URL], [LEGO age 9-12 URL], [Best Buy LEGO toys URL].",
+    "Which page gives the clearest buying recommendation, not just the longest gift list?",
+    "Which source would you trust most to help choose one toy for a 10-year-old, and why?",
+    "Pick one toy recommendation from these pages for a buyer who knows nothing about the child."
+  ],
+  "openDiscoveryPrompts": [
+    "I want to buy a toy for a 10 years old.",
+    "What toy should I buy for a 10-year-old if I don't know their interests?",
+    "Best toy for a 10-year-old that is not too childish.",
+    "Best gift for a 10-year-old under $70.",
+    "Should I buy LEGO, a STEM kit, or a board game for a 10-year-old?"
+  ],
+  "metrics": [
+    "controlledRank",
+    "agentCitation",
+    "recommendationSelected",
+    "agentExplanationQuality",
+    "specificityScore",
+    "tradeoffClarityScore",
+    "purchaseConfidenceScore"
+  ],
+  "competitorTargets": [
+    {
+      "name": "Good Housekeeping gifts for 10-year-old boys",
+      "url": "https://www.goodhousekeeping.com/childrens-products/toy-reviews/g29513983/best-toys-gifts-for-10-year-old-boys/"
+    },
+    {
+      "name": "Forbes Vetted best gifts for 10-year-olds",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-gift-for-10-year-olds/"
+    },
+    {
+      "name": "LEGO gifts and toys for 9, 10, 11 and 12-year-olds",
+      "url": "https://www.lego.com/en-us/categories/age-9-plus-years"
+    },
+    {
+      "name": "Best Buy LEGO toys for 10-year-olds",
+      "url": "https://www.bestbuy.com/site/shop/lego-toys-for-10-year-olds"
+    }
+  ]
+}

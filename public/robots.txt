@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toy-for-10-year-old-agent-demo.vercel.app/sitemap.xml
